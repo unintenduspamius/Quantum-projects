@@ -39,9 +39,9 @@ I'm a 14-year-old student from Bangalore building projects as part of my dream t
 ## 🌐 Portfolio & Contact
 
 - 🧠 Full Portfolio (Notion): Coming Soon in Volume 1 Completion
-- 📁 [GitHub Repo](https://github.com/YOUR-USERNAME/Quantum-projects)
+- 📁 [GitHub Repo] https://github.com/unintenduspamius/Quantum-projects
 - 📍 Bangalore, India
-- 📧 harish.future.qc@gmail.com *(use the Gmail you've set up)*
+- 📧 saiharishkaranam31@gmail.com 
 
 ---
 
