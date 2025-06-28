@@ -1,12 +1,49 @@
-# 🧠 Harish's Quantum Projects
+# ⚛️ Harish's Quantum Projects – Volume 1
 
-This repository contains all the quantum and Python-based projects I'm building as a 9th-grade student in India on my journey toward MIT and becoming a quantum computing entrepreneur.
+Welcome to **Volume 1** of my quantum computing + Python journey.  
+I'm a 14-year-old student from Bangalore building projects as part of my dream to create India's most powerful and accessible quantum computing ecosystem — and one day study at MIT or Princeton.
 
-## 🚀 Projects
+---
 
-- ✅ Project 001 – Hello Quantum World
-- ✅ Project 002 – Qubit Simulator (ASCII Edition)
-- 🔜 Project 003 – Quantum Logic Gates Simulation
-- 🔜 Project 004 – Quantum Flashcard App (Planned)
+## 📘 Volume 1: Project Checklist
 
-Stay tuned for more ⚛️✨
+| Project No. | Title                             | Status |
+|-------------|------------------------------------|--------|
+| 001         | Hello Quantum World                | ✅ Done |
+| 002         | Qubit Simulator (ASCII Edition)    | ✅ Done |
+| 003         | Quantum Logic Gate Simulator       | ✅ Done |
+| 004         | Quantum Flashcards App (Design)    | 🔲 To Do |
+| 005         | Entanglement Visualizer            | 🔲 To Do |
+
+---
+
+## 🧠 Project Descriptions
+
+**001 – Hello Quantum World**  
+> My first Colab project, used basic Python to print a message and simulate a qubit intro.
+
+**002 – Qubit Simulator (ASCII Edition)**  
+> Simulated qubit collapse using `random.choice()` and added fun ASCII visuals.
+
+**003 – Quantum Logic Gate Simulator**  
+> Python-based simulation of quantum gates: Pauli-X, Hadamard, and Identity.
+
+**004 – Quantum Flashcards App (Design Stage)**  
+> (Coming soon) A beginner-friendly flashcard app to memorize quantum concepts.
+
+**005 – Entanglement Visualizer**  
+> (Coming soon) A simulated demo to show how entangled qubits behave.
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 🧠 Full Portfolio (Notion): Coming Soon in Volume 1 Completion
+- 📁 [GitHub Repo](https://github.com/YOUR-USERNAME/Quantum-projects)
+- 📍 Bangalore, India
+- 📧 harish.future.qc@gmail.com *(use the Gmail you've set up)*
+
+---
+
+Stay tuned for **Volume 2**, where I'll take it up a notch with GUI apps, quantum libraries, and maybe even Qiskit!  
+MIT, I’m coming for you — project by project. 💥
